@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GPTVoiceApp</string>
+    <string name="background">Background</string>
+    <string name="microphone">Mic</string>
+</resources>
